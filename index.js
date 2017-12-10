@@ -6,7 +6,7 @@ function myAnimal() {
 
 function yourAnimal() {
   var = 'animal'
-  console.log('cat')
+  console.log(`cat`)
   return animal
 }
 
